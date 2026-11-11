@@ -1,0 +1,6 @@
+error_log
+_access.log
+.ftpquotas
+.sucuriquarantine/
+config.bat
+node_modules
