@@ -1,5 +1,4 @@
-<?php
-include 'inc/header.php' ?>
+<?php include __DIR__ . '/inc/header.php' ?>
 
 <div class="container-fluid banner-aboutus no-margin no-pad" >
 <img src="images/project/banner_richmond_cambie_townhome.jpg" width="100%" alt="Intelli Group Richmond Cambie Townhome">
@@ -24,4 +23,4 @@ include 'inc/header.php' ?>
 </div>
 
 
-<?php include 'inc/footer.php' ?>
+<?php include __DIR__ . '/inc/footer.php' ?>

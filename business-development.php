@@ -1,4 +1,4 @@
-<?php include 'inc/header.php' ?>
+<?php include __DIR__ . '/inc/header.php' ?>
 
 <div class="container-fluid banner-contact no-margin no-pad" >
 <img src="images/banner_business_development.jpg" width="100%" alt="Intelli Group Business Development">
@@ -36,4 +36,4 @@ We believe the underlying foundation of a strong network enables our Team of pro
 
 
 </div>
-<?php include 'inc/footer.php' ?>
+<?php include __DIR__ . '/inc/footer.php' ?>

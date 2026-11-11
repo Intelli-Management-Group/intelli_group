@@ -1,4 +1,4 @@
-<?php include 'inc/header.php' ?>
+<?php include __DIR__ . '/inc/header.php' ?>
 
 <div class="container-fluid banner-contact no-margin no-pad" >
 <img src="images/banner_contact.jpg" width="100%" alt="Intelli Group Contact">
@@ -56,4 +56,4 @@
 
 </div>
 </div>
-<?php include 'inc/footer.php' ?>
+<?php include __DIR__ . '/inc/footer.php' ?>
