@@ -1,4 +1,4 @@
-<?php include 'inc/header.php' ?>
+<?php include __DIR__ . '/inc/header.php' ?>
 
 <div class="container-fluid banner-aboutus no-margin no-pad" >
 <img src="images/project/banner_atrium_senior_home.jpg" width="100%" alt="Intelli Group Atrium Senior Home">
@@ -75,4 +75,4 @@ senior living project features
 </div>
 </div>
 
-<?php include 'inc/footer.php' ?>
+<?php include __DIR__ . '/inc/footer.php' ?>
