@@ -1,4 +1,4 @@
-<?php include 'inc/header.php' ?>
+<?php include __DIR__ . '/inc/header.php' ?>
 
 <div class="container-fluid banner-contact no-margin no-pad" >
 <img src="images/banner_aboutus.jpg" width="100%" alt="About Intelli Group" />
@@ -78,4 +78,4 @@ Intelli Group will be responsive to attracting new investment opportunities and 
 </div>
 
 
-<?php include 'inc/footer.php' ?>
+<?php include __DIR__ . '/inc/footer.php' ?>

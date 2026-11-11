@@ -13,14 +13,13 @@
 <title>Intelli Group</title>
 <meta charset="utf-8">
 <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
-<link rel="shortcut icon" type="image/png" href="http://intellidt.com/images/favicon.png"/>
-<meta http-equiv="X-UA-Compatible" content="IE-edge">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" property="og:description" content="The Intelli Group is a full-service business consulting and project management firm. Intelli Group dedicate to help our clients to substantiate their ideas, improve their businesses, and bring their visions to life. Our specialists provide industry expertise and excellent support to local and oversea clients in the areas of business development, investment, and project management.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat:300,400,700,900|Lato:200,300,400,700" rel="stylesheet">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js" integrity="sha384-1H217gwSVyLSIfaLxHbE7dRb3v4mYCKbpQvzx0cegeju1MVsGrX5xXxAvs/HgeFs" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 <link rel="stylesheet" type="text/css" href="inc/style.css">
 <script src="inc/script.js"></script>
 
